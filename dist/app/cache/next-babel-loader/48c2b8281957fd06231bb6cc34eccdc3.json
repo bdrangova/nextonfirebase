@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport App from '../components/App';\nexport default (function () {\n  return __jsx(App, null, __jsx(\"p\", {\n    className: \"text-blue-500 text-4xl text-center\"\n  }, \"Index Page\"));\n});","map":null,"metadata":{},"sourceType":"module"}
