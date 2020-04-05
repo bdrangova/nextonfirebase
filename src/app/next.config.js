@@ -1,4 +1,4 @@
 const withCSS = require('@zeit/next-css');
 module.exports = withCSS({
-  distDir: '../../dist/app'
+  distDir: '../../dist/app',
 });
